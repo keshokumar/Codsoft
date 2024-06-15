@@ -52,7 +52,7 @@ def main():
         
 
         if count%2==0:
-            user=input("Enter where you want to place , ")
+            user=input("Enter where you want to place : ")
             try:
                 rows,cols=map(int,user.split(","))
                 if rows in [0,1,2] and cols in [0,1,2]:
