@@ -2,19 +2,7 @@ import pandas as ps
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
-users=['Virat','Kohli','Kesho','Kumar','Usha','Tamil','Deva','Rani','Arasi','Yamini',
-      'Ajay','Robin','Dhanush','Aarav','Anaya','Diya','Vidya','Yash','Zara','Ishan']
-movies=['Dangal', '3 Idiots', 'Gully Boy', 'Chhichhore', 'Bajrangi Bhaijaan',
-        'Mersal', 'Kaala', 'Super Deluxe', '96', 'Kabali']
-
-np.random.seed(42)
-ratings=[]
-
-for user in users:
-    rate=np.random.choice(movies,size=5,replace=False)
-    for movie in rate:
-        ratings.append({'User':user.lower(),'Movie':movie,'Rating':np.random.randint(1,6)})
-data=ps.DataFrame(ratings)
+data=ps.read_csv('K:/Internship/Codsoft/Task_4/user_movie_rating_csv.csv')
 
 print("Sample data:")
 print(data)
@@ -42,12 +30,13 @@ def recommend_movies(user,num_rec):
     return recommend_movies
 
 uname=input("Enter user name:")
-num_rec=int(input("Enter the rating:"))
+num_rec=int(input("Enter the movie to reccomed:"))
+uname=uname.lower()
 
 recommendation=recommend_movies(uname,num_rec)
-print("\n Recommendation for {uname}:")
+print(f"\n Recommendation for {uname}:")
 if isinstance(recommendation,str):
     print(recommendation)
 else:
     for movie,rating in recommendation:
-        print(f"{movie}:Predicted rating {rating:.2f}")
+        print(f"{movie}")
