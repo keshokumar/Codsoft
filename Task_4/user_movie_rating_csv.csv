@@ -1,0 +1,405 @@
+User,Movie,Rating
+virat,Dangal,5
+virat,3 Idiots,4
+virat,Gully Boy,3
+virat,Chhichhore,4
+virat,Bajrangi Bhaijaan,5
+virat,Mersal,3
+virat,Kaala,4
+virat,Super Deluxe,5
+virat,96,3
+virat,Kabali,4
+kohli,Dangal,4
+kohli,3 Idiots,5
+kohli,Gully Boy,4
+kohli,Chhichhore,3
+kohli,Bajrangi Bhaijaan,4
+kohli,Mersal,5
+kohli,Kaala,3
+kohli,Super Deluxe,4
+kohli,96,5
+kohli,Kabali,3
+kesho,Dangal,3
+kesho,3 Idiots,4
+kesho,Gully Boy,5
+kesho,Chhichhore,3
+kesho,Bajrangi Bhaijaan,4
+kesho,Mersal,5
+kesho,Kaala,4
+kesho,Super Deluxe,3
+kesho,96,4
+kesho,Kabali,5
+kumar,Dangal,4
+kumar,3 Idiots,3
+kumar,Gully Boy,4
+kumar,Chhichhore,5
+kumar,Bajrangi Bhaijaan,3
+kumar,Mersal,4
+kumar,Kaala,5
+kumar,Super Deluxe,3
+kumar,96,4
+kumar,Kabali,5
+usha,Dangal,5
+usha,3 Idiots,4
+usha,Gully Boy,3
+usha,Chhichhore,4
+usha,Bajrangi Bhaijaan,5
+usha,Mersal,3
+usha,Kaala,4
+usha,Super Deluxe,5
+usha,96,3
+usha,Kabali,4
+tamil,Dangal,4
+tamil,3 Idiots,5
+tamil,Gully Boy,4
+tamil,Chhichhore,3
+tamil,Bajrangi Bhaijaan,4
+tamil,Mersal,5
+tamil,Kaala,3
+tamil,Super Deluxe,4
+tamil,96,5
+tamil,Kabali,3
+deva,Dangal,3
+deva,3 Idiots,4
+deva,Gully Boy,5
+deva,Chhichhore,3
+deva,Bajrangi Bhaijaan,4
+deva,Mersal,5
+deva,Kaala,4
+deva,Super Deluxe,3
+deva,96,4
+deva,Kabali,5
+rani,Dangal,4
+rani,3 Idiots,3
+rani,Gully Boy,4
+rani,Chhichhore,5
+rani,Bajrangi Bhaijaan,3
+rani,Mersal,4
+rani,Kaala,5
+rani,Super Deluxe,3
+rani,96,4
+rani,Kabali,5
+arasi,Dangal,5
+arasi,3 Idiots,4
+arasi,Gully Boy,3
+arasi,Chhichhore,4
+arasi,Bajrangi Bhaijaan,5
+arasi,Mersal,3
+arasi,Kaala,4
+arasi,Super Deluxe,5
+arasi,96,3
+arasi,Kabali,4
+yamini,Dangal,4
+yamini,3 Idiots,5
+yamini,Gully Boy,4
+yamini,Chhichhore,3
+yamini,Bajrangi Bhaijaan,4
+yamini,Mersal,5
+yamini,Kaala,3
+yamini,Super Deluxe,4
+yamini,96,5
+yamini,Kabali,3
+ajay,Dangal,3
+ajay,3 Idiots,4
+ajay,Gully Boy,5
+ajay,Chhichhore,3
+ajay,Bajrangi Bhaijaan,4
+ajay,Mersal,5
+ajay,Kaala,4
+ajay,Super Deluxe,3
+ajay,96,4
+ajay,Kabali,5
+robin,Dangal,4
+robin,3 Idiots,3
+robin,Gully Boy,4
+robin,Chhichhore,5
+robin,Bajrangi Bhaijaan,3
+robin,Mersal,4
+robin,Kaala,5
+robin,Super Deluxe,3
+robin,96,4
+robin,Kabali,5
+dhanush,Dangal,5
+dhanush,3 Idiots,4
+dhanush,Gully Boy,3
+dhanush,Chhichhore,4
+dhanush,Bajrangi Bhaijaan,5
+dhanush,Mersal,3
+dhanush,Kaala,4
+dhanush,Super Deluxe,5
+dhanush,96,3
+dhanush,Kabali,4
+aarav,Dangal,3
+aarav,3 Idiots,4
+aarav,Gully Boy,5
+aarav,Chhichhore,3
+aarav,Bajrangi Bhaijaan,4
+aarav,Mersal,5
+aarav,Kaala,4
+aarav,Super Deluxe,3
+aarav,96,4
+aarav,Kabali,5
+anaya,Dangal,4
+anaya,3 Idiots,3
+anaya,Gully Boy,4
+anaya,Chhichhore,5
+anaya,Bajrangi Bhaijaan,3
+anaya,Mersal,4
+anaya,Kaala,5
+anaya,Super Deluxe,3
+anaya,96,4
+anaya,Kabali,5
+diya,Dangal,5
+diya,3 Idiots,4
+diya,Gully Boy,3
+diya,Chhichhore,4
+diya,Bajrangi Bhaijaan,5
+diya,Mersal,3
+diya,Kaala,4
+diya,Super Deluxe,5
+diya,96,3
+diya,Kabali,4
+vidya,Dangal,3
+vidya,3 Idiots,4
+vidya,Gully Boy,5
+vidya,Chhichhore,3
+vidya,Bajrangi Bhaijaan,4
+vidya,Mersal,5
+vidya,Kaala,4
+vidya,Super Deluxe,3
+vidya,96,4
+vidya,Kabali,5
+yash,Dangal,4
+yash,3 Idiots,3
+yash,Gully Boy,4
+yash,Chhichhore,5
+yash,Bajrangi Bhaijaan,3
+yash,Mersal,4
+yash,Kaala,5
+yash,Super Deluxe,3
+yash,96,4
+yash,Kabali,5
+zara,Dangal,5
+zara,3 Idiots,4
+zara,Gully Boy,3
+zara,Chhichhore,4
+zara,Bajrangi Bhaijaan,5
+zara,Mersal,3
+zara,Kaala,4
+zara,Super Deluxe,5
+zara,96,3
+zara,Kabali,4
+ishan,Dangal,4
+ishan,3 Idiots,5
+ishan,Gully Boy,4
+ishan,Chhichhore,3
+ishan,Bajrangi Bhaijaan,4
+ishan,Mersal,5
+ishan,Kaala,3
+ishan,Super Deluxe,4
+ishan,96,5
+ishan,Kabali,3
+user_21,The Shawshank Redemption,4
+user_21,The Godfather,5
+user_21,The Dark Knight,3
+user_21,Pulp Fiction,4
+user_21,Forrest Gump,5
+user_21,Inception,3
+user_21,Fight Club,4
+user_21,The Matrix,5
+user_21,Goodfellas,3
+user_21,Seven,4
+user_21,Interstellar,5
+user_21,Gladiator,3
+user_21,City of God,4
+user_21,The Silence of the Lambs,5
+user_21,It's a Wonderful Life,3
+user_21,Saving Private Ryan,4
+user_21,Parasite,5
+user_21,Avengers: Endgame,3
+user_21,The Lion King,4
+user_23,The Shawshank Redemption,4
+user_23,The Godfather,5
+user_23,The Dark Knight,3
+user_23,Pulp Fiction,4
+user_23,Forrest Gump,5
+user_23,Inception,3
+user_23,Fight Club,4
+user_23,The Matrix,5
+user_23,Goodfellas,3
+user_23,Seven,4
+user_23,Interstellar,5
+user_23,Gladiator,3
+user_23,City of God,4
+user_23,The Silence of the Lambs,5
+user_23,It's a Wonderful Life,3
+user_23,Saving Private Ryan,4
+user_23,Parasite,5
+user_23,Avengers: Endgame,3
+user_23,The Lion King,4
+user_24,The Shawshank Redemption,4
+user_24,The Godfather,5
+user_24,The Dark Knight,3
+user_24,Pulp Fiction,4
+user_24,Forrest Gump,5
+user_24,Inception,3
+user_24,Fight Club,4
+user_24,The Matrix,5
+user_24,Goodfellas,3
+user_24,Seven,4
+user_24,Interstellar,5
+user_24,Gladiator,3
+user_24,City of God,4
+user_24,The Silence of the Lambs,5
+user_24,It's a Wonderful Life,3
+user_24,Saving Private Ryan,4
+user_24,Parasite,5
+user_24,Avengers: Endgame,3
+user_24,The Lion King,4
+user_25,The Shawshank Redemption,4
+user_25,The Godfather,5
+user_25,The Dark Knight,3
+user_25,Pulp Fiction,4
+user_25,Forrest Gump,5
+user_25,Inception,3
+user_25,Fight Club,4
+user_25,The Matrix,5
+user_25,Goodfellas,3
+user_25,Seven,4
+user_25,Interstellar,5
+user_25,Gladiator,3
+user_25,City of God,4
+user_25,The Silence of the Lambs,5
+user_25,It's a Wonderful Life,3
+user_25,Saving Private Ryan,4
+user_25,Parasite,5
+user_25,Avengers: Endgame,3
+user_25,The Lion King,4
+user_26,The Shawshank Redemption,4
+user_26,The Godfather,5
+user_26,The Dark Knight,3
+user_26,Pulp Fiction,4
+user_26,Forrest Gump,5
+user_26,Inception,3
+user_26,Fight Club,4
+user_26,The Matrix,5
+user_26,Goodfellas,3
+user_26,Seven,4
+user_26,Interstellar,5
+user_26,Gladiator,3
+user_26,City of God,4
+user_26,The Silence of the Lambs,5
+user_26,It's a Wonderful Life,3
+user_26,Saving Private Ryan,4
+user_26,Parasite,5
+user_26,Avengers: Endgame,3
+user_26,The Lion King,4
+user_27,The Shawshank Redemption,4
+user_27,The Godfather,5
+user_27,The Dark Knight,3
+user_27,Pulp Fiction,4
+user_27,Forrest Gump,5
+user_27,Inception,3
+user_27,Fight Club,4
+user_27,The Matrix,5
+user_27,Goodfellas,3
+user_27,Seven,4
+user_27,Interstellar,5
+user_27,Gladiator,3
+user_27,City of God,4
+user_27,The Silence of the Lambs,5
+user_27,It's a Wonderful Life,3
+user_27,Saving Private Ryan,4
+user_27,Parasite,5
+user_27,Avengers: Endgame,3
+user_27,The Lion King,4
+user_28,The Shawshank Redemption,4
+user_28,The Godfather,5
+user_28,The Dark Knight,3
+user_28,Pulp Fiction,4
+user_28,Forrest Gump,5
+user_28,Inception,3
+user_28,Fight Club,4
+user_28,The Matrix,5
+user_28,Goodfellas,3
+user_28,Seven,4
+user_28,Interstellar,5
+user_28,Gladiator,3
+user_28,City of God,4
+user_28,The Silence of the Lambs,5
+user_28,It's a Wonderful Life,3
+user_28,Saving Private Ryan,4
+user_28,Parasite,5
+user_28,Avengers: Endgame,3
+user_28,The Lion King,4
+user_29,The Shawshank Redemption,4
+user_29,The Godfather,5
+user_29,The Dark Knight,3
+user_29,Pulp Fiction,4
+user_29,Forrest Gump,5
+user_29,Inception,3
+user_29,Fight Club,4
+user_29,The Matrix,5
+user_29,Goodfellas,3
+user_29,Seven,4
+user_29,Interstellar,5
+user_29,Gladiator,3
+user_29,City of God,4
+user_29,The Silence of the Lambs,5
+user_29,It's a Wonderful Life,3
+user_29,Saving Private Ryan,4
+user_29,Parasite,5
+user_29,Avengers: Endgame,3
+user_29,The Lion King,4
+user_30,The Shawshank Redemption,4
+user_30,The Godfather,5
+user_30,The Dark Knight,3
+user_30,Pulp Fiction,4
+user_30,Forrest Gump,5
+user_30,Inception,3
+user_30,Fight Club,4
+user_30,The Matrix,5
+user_30,Goodfellas,3
+user_30,Seven,4
+user_30,Interstellar,5
+user_30,Gladiator,3
+user_30,City of God,4
+user_30,The Silence of the Lambs,5
+user_30,It's a Wonderful Life,3
+user_30,Saving Private Ryan,4
+user_30,Parasite,5
+user_30,Avengers: Endgame,3
+user_30,The Lion King,4
+user_31,The Shawshank Redemption,4
+user_31,The Godfather,5
+user_31,The Dark Knight,3
+user_31,Pulp Fiction,4
+user_31,Forrest Gump,5
+user_31,Inception,3
+user_31,Fight Club,4
+user_31,The Matrix,5
+user_31,Goodfellas,3
+user_31,Seven,4
+user_31,Interstellar,5
+user_31,Gladiator,3
+user_31,City of God,4
+user_31,The Silence of the Lambs,5
+user_31,It's a Wonderful Life,3
+user_31,Saving Private Ryan,4
+user_31,Parasite,5
+user_31,Avengers: Endgame,3
+user_31,The Lion King,4
+user_32,The Shawshank Redemption,4
+user_32,The Godfather,5
+user_32,The Dark Knight,3
+user_32,Pulp Fiction,4
+user_32,Forrest Gump,5
+user_32,Inception,3
+user_32,Fight Club,4
+user_32,The Matrix,5
+user_32,Goodfellas,3
+user_32,Seven,4
+user_32,Interstellar,5
+user_32,Gladiator,3
+user_32,City of God,4
+user_32,The Silence of the Lambs,5
