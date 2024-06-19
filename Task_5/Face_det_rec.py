@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import face_recognition
 import os
-import dlib
 
 face_pre=cv2.CascadeClassifier(cv2.data.haarcascades+'haarcascade_frontalface_default.xml')
 
